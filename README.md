@@ -7,8 +7,6 @@
 - 📫 Contact me at [elubkert@gmail.com](mailto:elubkert@gmail.com)
 - 😄 Pronouns: she / her
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emilylubkert&hide=issues)
-
 <!--
 **emilylubkert/emilylubkert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
